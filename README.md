@@ -1,3 +1,4 @@
+<img width="483" height="852" alt="Screenshot 2026-06-24 141946" src="https://github.com/user-attachments/assets/858160bd-d634-452b-a41e-4f1e680ab8ee" />
 # whats_app
 
 WhatsApp chat screen UI built with Flutter — a high-fidelity replication of the
